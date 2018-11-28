@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  register: 1
+  position: MyString
+  station: one
+
+two:
+  name: MyString
+  register: 1
+  position: MyString
+  station: two

@@ -6,6 +6,11 @@ ruby '2.5.1'
 gem 'pg'
 gem 'rails_12factor', group: :production
 
+gem 'remotipart'
+gem 'rails_admin'
+gem 'rails_admin_rollincode'
+gem "devise"
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
